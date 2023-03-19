@@ -2,15 +2,15 @@
 
 ## **GOAL** - EDA of IT professionals' mental health
 
-	- Check what is the scale of the phenomenon
-	- find any patterns related to mental health.
+- Check what is the scale of the phenomenon
+- find any patterns related to mental health.
 
 ## **Method and techniques:**
 
-	- investigation of the dataset - what kind of features are available, their types, distribution
-	- cleaning (handling missing values, duplicates, outliers)
-	- visualisation with matplotlib, seaboarn
-	- SQL for retrieving data from SQLITE database
+- investigation of the dataset - what kind of features are available, their types, distribution
+- cleaning (handling missing values, duplicates, outliers)
+- visualisation with matplotlib, seaboarn
+- SQL for retrieving data from SQLITE database
 
 ## **Main conclusions:**
 
